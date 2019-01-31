@@ -1,0 +1,21 @@
+*{
+	font-family: optima, sans-serif
+}
+
+
+
+h1{
+	border: 5px solid black;
+
+}
+
+body {
+	background-color: #ff689a;
+color: #0a2859
+}
+
+img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
